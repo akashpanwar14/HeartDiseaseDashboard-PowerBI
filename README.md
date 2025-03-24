@@ -15,7 +15,7 @@ This repository contains a detailed analysis of heart disease data, focusing on 
 
 ## Repository Contents:
 - `Heart_Disease_Dataset.xlsx` - The excel file containing the heart disease Clean Data.
-- `HeartDiseaseAnalysis.pptx` - A concise PowerPoint presentation summarizing the key findings of this project.
+- `Heart Disease Analysis(pdf).pdf` - A concise PowerPoint presentation summarizing the key findings of this project.
 - `README.md` - Documentation describing the project, features, and repository structure.
 
 ## Insights & Applications:
